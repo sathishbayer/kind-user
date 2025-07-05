@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: USER
+kind: User
 metadata:
   name: sathishbayer
   description: checking for grafana integration backstage
