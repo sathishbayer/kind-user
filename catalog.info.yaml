@@ -4,6 +4,7 @@ metadata:
   name: sathishbayer
   description: checking for grafana integration backstage
 spec:
-  owner: team-platform
-  region: us-east-1
-  environment: production
+  profile:
+    displayName: Sathish Bayer
+    email: sathish@example.com
+  memberOf: [team-platform]
